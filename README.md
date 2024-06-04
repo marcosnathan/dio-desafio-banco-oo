@@ -1,6 +1,5 @@
 ## Desafio DIO Banco Digital usando POO
 
----
 
 Nesse desafio usamos POO para abastrair um Banco. Foi utilizada a biblioteca [Lombok](https://projectlombok.org/) para reduzir a verbosidade do Java para definição Java Beans e criação de novos objetos.
 
